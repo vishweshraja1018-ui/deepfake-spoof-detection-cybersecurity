@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+timm
+numpy
+pillow
+opencv-python-headless
+pytorch-grad-cam
+mediapipe
+reportlab
